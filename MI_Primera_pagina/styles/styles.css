@@ -1,0 +1,192 @@
+body {
+
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+
+
+}
+
+.container{
+
+         display: flex;
+         justify-content: left;
+         align-items: left;
+
+
+
+
+}
+
+
+
+
+.imagen-redonda {
+
+                width: 150px;
+                position: absolute;
+                height: 150px;
+                border-radius: 50%;
+                object-fit: cover;
+                border: 3px solid;
+                top: 20px;
+                left: 310px;
+
+
+
+}
+
+
+
+.rectangulo {
+
+           width: 280px;
+           position: absolute;
+           height: 450px;
+           background-color: #f0f0f0;
+           border: 2px solid black;
+           border-radius: 10px;
+           align-items: left;
+           justify-content: left;
+           top: 210px;
+           left: 320px;
+           
+
+
+}
+
+
+
+.texto {
+
+
+       color: black;
+       font-size: 20px;
+       text-align: center;
+}
+
+
+.informacion{
+
+
+            color: black;
+            font-size: 20px;
+            text-align: center;
+}
+
+
+.rectangulo-2 {
+    
+          width: 280px;
+          position: absolute;
+          height: 351px;
+          background-color: #f0f0f0;
+          border: 2px solid black;
+          border-radius: 10px;
+          align-items: left;
+          justify-content: left;
+          top: 20px;
+          left: 900px;
+    
+
+
+
+
+}
+
+
+.rectangulo-3 {
+
+    width: 280px;
+    position: absolute;
+    height: 551px;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: left;
+    justify-content: left;
+    top: 380px;
+    left: 900px;
+
+
+
+}
+
+
+
+.rectangulo-4 {
+
+
+    width: 297px;
+    position: absolute;
+    height: 905px;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: left;
+    justify-content: left;
+    top: 20px;
+    left: 1350px;
+
+
+
+}
+
+
+
+
+.rectangulo-5 {
+
+    width: 297px;
+    position: absolute;
+    height: 230px;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: left;
+    justify-content: left;
+    top: 670px;
+    left: 320px;
+
+
+           
+}
+
+
+
+
+
+
+
+.margen {
+
+      margin: 0 20px;
+      padding: 20px 0;
+      border: 5px black;
+
+
+}
+
+
+
+.rectangulo-10{
+   
+    width: 1656px;
+    position: absolute;
+    height: 929px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: left;
+    justify-content: left;
+    top: 12px;
+    left: 120px;
+
+           
+         
+}
+
+
