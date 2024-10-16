@@ -1,0 +1,52 @@
+
+body {
+
+  width: 720px;
+  height: 4119px;
+
+}
+
+
+.caja-1 {
+
+  
+  background: brown;
+  width: 920px;
+  height: 620px;
+}
+
+.caja-2{
+
+  background-color: tomato;
+  width: 920px;
+  height: 120px;
+}
+
+.caja-3 {
+
+  position: absolute;
+  background-color: gray;
+  width: 120px;
+  height: 120px;
+  left: 390px;
+  text-align: center;
+  
+
+}
+
+
+.caja-4 {
+
+  background-color: yellow;
+  width: 920px;
+  height: 400px;
+
+}
+
+
+.caja-5 {
+
+  width: 920px;
+  height: 100px;
+  background-color: blue;
+}
